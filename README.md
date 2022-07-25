@@ -1,6 +1,6 @@
 # Hate Speech Detection
 
-This is a repository for a project entitled "Hate Speech Detection" whose purpose is to find out whether a user spreads hate speech or not after seeing 100 tweets posted by him
+This is a repository for a project entitled "Hate Speech Detection" whose purpose is to find out whether a user spreads hate speech or not after seeing 100 tweets posted by him. Online hate speech is a type of speech that takes place online with the purpose of attacking a person or a group based on their race, religion, ethnic origin, sexual orientation, disability, and/or gender. Online hate speech is not easily defined, but can be recognized by the degrading or dehumanizing function it serves.
 
 # Competition Link 
 
