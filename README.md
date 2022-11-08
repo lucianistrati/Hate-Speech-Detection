@@ -12,3 +12,5 @@ The dataset from the PAN 2021 Author Profilling competition is comprised of the 
 
 # Project Poster
 ![Project poster](Poster.png "Project poster")
+
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
