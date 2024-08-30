@@ -38,5 +38,3 @@ Feel free to explore and utilize these files for hate speech detection tasks and
 
 # Project Poster
 ![Project poster](Poster.png "Project poster")
-
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
